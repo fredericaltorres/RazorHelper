@@ -3,7 +3,7 @@
 
 ## What Is The Razor Helper Library?
 
-The The Razor Helper Library is a helper library to use the Microsoft Razor Template engine outside of the ASP.NET MVC framework.
+The Razor Helper Library is a helper library to use the Microsoft Razor Template engine outside of the ASP.NET MVC framework.
 
 ##Copyright
 Copyright (c) 2011 Frederic Torres
