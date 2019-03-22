@@ -11,9 +11,6 @@ Copyright (c) 2011 Frederic Torres
 ## License
 You may use the Razor Helper Library under the terms of the MIT License.
 
-##Contact
-<fredericaltorres@gmail.com>
-
 ##Source Code:
 
 <https://github.com/fredericaltorres/RazorHelper>
